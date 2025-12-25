@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>ClickBind Updates</title>
+        <link>https://raw.githubusercontent.com/clickbind-app/clickbind-releases/main/appcast.xml</link>
+        <description>Most recent updates to ClickBind</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.9.0</title>
+            <pubDate>Thu, 25 Dec 2025 23:56:20 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>0.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v0.9.0/ClickBind.zip"
+                sparkle:edSignature="9J2OFR8zsw264tNb90tfkPNfUl6I3nMgKfx8Ll7YkBL4wO1/CjZ8p06uP4oe52w6DSTUgyEC8ufdbwJ79wwNCw==" length="1870904"
+                type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
