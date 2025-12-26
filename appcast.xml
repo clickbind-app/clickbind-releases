@@ -7,13 +7,13 @@
         <language>en</language>
         <item>
             <title>Version 0.9.4</title>
-            <pubDate>Fri, 26 Dec 2025 04:09:56 +0000</pubDate>
-            <sparkle:version>20251225</sparkle:version>
+            <pubDate>Fri, 26 Dec 2025 04:15:01 +0000</pubDate>
+            <sparkle:version>2025122502</sparkle:version>
             <sparkle:shortVersionString>0.9.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
                 url="https://github.com/clickbind-app/clickbind-releases/releases/download/v0.9.4/ClickBind.zip"
-                sparkle:edSignature="YwWyfFVf9tJ98qdqGpSZRn6HQktsHElcX5L5o83zQClYV0C/jQFr3+GndCNF93HH/KBp5QVgg+iuJZdVZMlkAw==" length="1880877"
+                sparkle:edSignature="86CQp2eM+INHrWmnknAm4wK8yNRAlGbd/tiMF2/zph9DNpiZP8hRhgIWUg+oJIj6kPU+/To74Hn6mrPkI+YtCQ==" length="1880877"
                 type="application/octet-stream"/>
         </item>
     </channel>
