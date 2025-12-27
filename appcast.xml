@@ -6,14 +6,14 @@
         <description>Most recent updates to ClickBind</description>
         <language>en</language>
         <item>
-            <title>Version 0.9.6</title>
-            <pubDate>Fri, 26 Dec 2025 18:46:29 +0000</pubDate>
-            <sparkle:version>1766774561</sparkle:version>
-            <sparkle:shortVersionString>0.9.6</sparkle:shortVersionString>
+            <title>Version 0.10.0</title>
+            <pubDate>Sat, 27 Dec 2025 00:10:57 +0000</pubDate>
+            <sparkle:version>1766794066</sparkle:version>
+            <sparkle:shortVersionString>0.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v0.9.6/ClickBind.zip"
-                sparkle:edSignature="1mJPDkGNIb6nls8nTT4QVQJLODk8WMccuyZiM96Ia+qyesoB2TIUgSdRlBJSppAtDp+p9Q5Gkz1tdGVbtuFICA==" length="1884401"
+                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v0.10.0/ClickBind.zip"
+                sparkle:edSignature="VceiPefNe66C9JlkdViFfoWCjQsAxBrBQ+jTcG0kJMz5RnpuJtEW9KiyRp5ZZ5EvEtObWdkLAwth3B2a/uXBBA==" length="1907565"
                 type="application/octet-stream"/>
         </item>
     </channel>
