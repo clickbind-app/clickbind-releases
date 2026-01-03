@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
     <channel>
         <title>ClickBind Updates</title>
-        <link>https://raw.githubusercontent.com/clickbind-app/clickbind-releases/main/appcast.xml</link>
+        <link>https://cdn.jsdelivr.net/gh/clickbind-app/clickbind-releases@main/appcast.xml</link>
         <description>Most recent updates to ClickBind</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.0</title>
-            <pubDate>Sat, 03 Jan 2026 06:50:40 +0000</pubDate>
-            <sparkle:version>1767422871</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>Version 1.0.1</title>
+            <pubDate>Sat, 03 Jan 2026 21:56:41 +0000</pubDate>
+            <sparkle:version>1767477276</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v1.0.0/ClickBind.dmg"
-                sparkle:edSignature="1U6gtmtXbS0av6hUTFwxrGklOyBJlOWVwOlI+M7u6fBlJxCt67VnVJ+RciVds2XYnqN35TxM1EMg9DYnKyHZCw==" length="4428767"
+                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v1.0.1/ClickBind.dmg"
+                sparkle:edSignature="bqtCd8So6pG7nYwZtmtj6W1P3iUaHAhwnrlN8f0SPhPANBrx0pmvJC4PliylInkpChE2aTqUm4h1s4MCh/rpAQ==" length="4429248"
                 type="application/x-apple-diskimage"/>
         </item>
     </channel>
