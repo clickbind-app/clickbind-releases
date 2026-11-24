@@ -6,14 +6,14 @@
         <description>Most recent updates to ClickBind</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.3</title>
-            <pubDate>Sun, 04 Jan 2026 18:54:56 +0000</pubDate>
-            <sparkle:version>1767552785</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>Version 1.0.4</title>
+            <pubDate>Tue, 24 Nov 2026 23:50:51 +0000</pubDate>
+            <sparkle:version>1795563825</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v1.0.3/ClickBind.dmg"
-                sparkle:edSignature="4FtvTLtpJdBT6bPhWIHrCBFBTDGUIGiviwsjmBKJXMrTCvPNj68NCMi1nBVQE2TSnEyBNfKxgwLJN2sPOR2sCA==" length="4429001"
+                url="https://github.com/clickbind-app/clickbind-releases/releases/download/v1.0.4/ClickBind.dmg"
+                sparkle:edSignature="EpN4jtukNlcgKr4fzp3zubX+AUS/4mE0D2SovqZX99DvbmwJZz3KaNaqqJ67IbfL0uyDVBDohYbn1IS0IxpSDg==" length="4409126"
                 type="application/x-apple-diskimage"/>
         </item>
     </channel>
